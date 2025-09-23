@@ -1,0 +1,66 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Graduate",
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ]
+  ],
+  "legacy_uid": "c2459705-d195-e383-dd58-fb0a77029b02",
+  "instructors": {
+    "content": [
+      "2b8a3811-d3a2-ca98-0b6a-2964d2ef5cb5",
+      "1c5684a0-0660-69a8-c567-f5918f5cb3a2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b937c207-673b-733b-34b7-c85a6a967718",
+    "website": "21h-983j-gender-historical-perspectives-fall-2020"
+  },
+  "course_title": "Gender: Historical Perspectives",
+  "course_description": "This course examines the definition of gender in scientific, societal, and historical contexts. It explores how gender influences state formation and the work of the state, what role gender plays in imperialism and in the welfare state, the ever-present relationship between gender and war, and different states' regulation of the body in gendered ways at different times. It also investigates new directions in the study of gender as historians, anthropologists and others have taken on this fascinating set of problems. Students taking the graduate version complete additional assignments.\n",
+  "department_numbers": [
+    "21H",
+    "WGS"
+  ],
+  "extra_course_numbers": "21H.109J,WGS.310J,WGS.303J",
+  "primary_course_number": "21H.983J",
+  "course_image_thumbnail": {
+    "content": "28e4bd70-1d4b-d8df-f4cf-d7b3012aaa7e",
+    "website": "21h-983j-gender-historical-perspectives-fall-2020"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "29144d1f-d881-466d-8908-5608a527e51d",
+  "site_short_id": "21h.983j-fall-2020",
+  "site_url_path": "courses/21h-983j-gender-historical-perspectives-fall-2020",
+  "title": "Course Metadata"
+}

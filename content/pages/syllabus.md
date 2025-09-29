@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the course meeting times, a course description,
   and the course grading policy.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -101,6 +103,6 @@ For detail on the activities above, see the {{% resource_link 55d63d96-6b45-141b
 Required Text
 -------------
 
-Ware, Susan. _Why They Marched: Untold Stories of the Women Who Fought for the Right to Vote_. Belknap Press, 2020. ISBN: 9780674248298. \[Preview with {{% resource_link "0e471235-fce8-4893-a328-1adc4d596cee" "Google Books" %}}\]
+Ware, Susan. _Why They Marched: Untold Stories of the Women Who Fought for the Right to Vote_. Belknap Press, 2020. ISBN: 9780674248298. \[Preview with [Google Books](https://www.google.com/books/edition/Why_They_Marched/oFWQDwAAQBAJ?hl=en&gbpv=1)\]
 
 For additional readings, see the {{% resource_link dff5d9c8-b251-0dd4-c9c6-213aec8158d7 "Readings and Videos" %}} section.

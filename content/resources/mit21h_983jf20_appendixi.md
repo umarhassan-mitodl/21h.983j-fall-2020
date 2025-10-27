@@ -4,8 +4,6 @@ description: ''
 file: /courses/21h-983j-gender-historical-perspectives-fall-2020/849d96bfb2d0acfb82dcbae01e43afb9_MIT21H_983JF20_AppendixI.pdf
 file_size: 117528
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
